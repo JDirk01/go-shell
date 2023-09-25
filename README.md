@@ -1,1 +1,3 @@
 # go-shell
+
+Rewrite of an assignment from my Intro to Operating Systems course. The original assignment was to write a shell in C that included a standard prompt similar to one found in Bash or Zsh. Main functionalities of the shell included variable expansion with $$ as a variable label, built-in functionality of exit, cd, and status commands, process creation, input and output redirection (<, and >), support for foreground and background processes, and signal handling. My goal with this project is to rewrite the shell in Go, along with providing more functionality, similar to a shell like Bash. 
